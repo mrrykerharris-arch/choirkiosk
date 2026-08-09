@@ -1,0 +1,8 @@
+{
+  "name": "ChoirRecord Pro",
+  "description": "A recording application for high school choir students to record video/audio submissions along with backing tracks, with an admin dashboard for managing classes and reviewing submissions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
